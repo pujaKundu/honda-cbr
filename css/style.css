@@ -1,0 +1,39 @@
+/* fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* utilities */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.orange-color {
+    background-color: #E76F51;
+}
+
+.orange-color-text {
+    color: #E76F51;
+}
+
+
+/* hero section styles */
+
+.hero-bg,
+.nav-bg {
+    background-color: #264653;
+}
+
+
+/* featured bike section styles */
+
+.gray-filter {
+    filter: grayscale(100%);
+}
+
+
+/* happy clients section */
+
+.star-icon {
+    color: #E77C40;
+}
